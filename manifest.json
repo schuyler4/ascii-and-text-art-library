@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "Ascii and Text Art Library",
+  "description": "This extention stores ascii and text art, so you can reference it and youse it whenever you want.",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "main.html"
+  },
+  "permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ]
+}

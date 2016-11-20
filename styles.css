@@ -1,0 +1,19 @@
+.button {
+  border: 2px solid black;
+  background: none;
+  margin: 2px;
+}
+
+.textarea {
+  width: 300px;
+  height: 300px;
+  border: 2px solid black;
+}
+
+.artborder {
+  border: 2px solid black;
+}
+
+#main {
+  min-width: 200px;
+}
